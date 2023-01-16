@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mikececco
-- 👀 I’m interested in Business and Innovation
-- 🌱 I’m currently studying Digital Management in H-Farm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mikececco/mikececco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mike!
+- 👀 I’m interested in MicroSaas and aspiring IndieHacker
+- 🌱 I’m currently studying at LeWagon Web Development Bootcamp #1108 Amsterdam
+- 💞️ I’m looking to collaborate on (not yet known)
+- 📫 Reach me at https://t.me/mikececconello
