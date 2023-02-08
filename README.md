@@ -23,9 +23,6 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikececconello/)
 
-
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -33,5 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)](https://github.com/anuraghazra/github-readme-stats)
+
+
