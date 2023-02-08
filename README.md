@@ -19,7 +19,7 @@
 - :zap: I’m currently studying at LeWagon Web Development Bootcamp #1108 Amsterdam.
 
 - :mailbox:How to reach me: <br>
-           [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikececconello/)
+   [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikececconello/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
