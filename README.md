@@ -15,11 +15,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Product Manager transitioning to Software Engineering.
 
-- :seedling: I’m interested in bootstrapped MicroSaas
+- :seedling: I’m interested in bootstrapped MicroSaas and AI.
 
-- :zap: I’m currently studying at LeWagon Web Development Bootcamp #1108 Amsterdam
+- :zap: I’m currently studying at LeWagon Web Development Bootcamp #1108 Amsterdam.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikececconello/)
 
