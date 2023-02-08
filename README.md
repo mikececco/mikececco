@@ -4,5 +4,8 @@
 - 💞️ I’m looking to collaborate on (not yet known)
 - 📫 Reach me at https://t.me/mikececconello
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=mikececco)](https://github.com/anuraghazra/github-readme-stats)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
