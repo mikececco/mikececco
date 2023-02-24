@@ -36,7 +36,7 @@
 
 ### :fire: My Stats :
 
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)]
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&hide_progress=true)]
 
