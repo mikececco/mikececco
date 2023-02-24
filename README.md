@@ -40,7 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mikececco)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
