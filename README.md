@@ -36,11 +36,11 @@
 
 ### :fire: My Stats :
 
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)](https://github.com/anuraghazra/github-readme-stats)
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&hide_progress=true)](https://github.com/mikececco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&hide_progress=true)]
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)]
 
 
