@@ -12,9 +12,9 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m a Product Manager transitioning to Software Engineering.
+- :telescope: Software developer focused on MicroSaas.
 
-- :seedling: I’m interested in bootstrapped MicroSaas and AI.
+- :seedling: I’m interested in simple but articulate problems.
 
 - :zap: I’m currently studying at LeWagon Web Development Bootcamp #1108 Amsterdam.
 
