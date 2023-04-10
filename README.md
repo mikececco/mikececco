@@ -16,7 +16,7 @@
 
 - :seedling: I’m interested in simple but articulate problems.
 
-- :zap: I’m currently studying at LeWagon Web Development Bootcamp #1108 Amsterdam.
+- :zap: I’m currently working in stealth mode on EdTech.
 
 - :mailbox:How to reach me: <br>
    [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikececconello/)
