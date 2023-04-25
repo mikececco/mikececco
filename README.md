@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: Software developer interested in AI.
+- :telescope: Software developer with experience and interest in AI.
 
 - :seedling: I’m interested in simple but articulate problems.
 
