@@ -40,7 +40,7 @@
                 <p align="center">
                     <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
                     <p align="center">
-                        A netflix like for the Youtube Channel Cacabox TV
+                        AI? Web3?
                     </p>
                 </p>
             </td>
