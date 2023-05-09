@@ -19,6 +19,37 @@
 - :zap: I’m currently working on ...
 </div>
 
+<!-- Projects -->
+<h1 align="center">My latest projects 👨‍💻</h1>
+<div align="center">
+  <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://tabinav.com/" target="_blank" rel="noreferrer"> Tabinav ✈️</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <p align="center">
+                        AI-powered trip planner
+                    </p>
+                </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="/" target="_blank" rel="noreferrer">Coming soon 📹</a>
+                </h3>
+                <p align="center">
+                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <p align="center">
+                        A netflix like for the Youtube Channel Cacabox TV
+                    </p>
+                </p>
+            </td>
+        </tr>
+  </table>
+</div> 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
@@ -55,38 +86,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&theme=monokai&hide_progress=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)
-
-<!-- Projects -->
-<h1 align="center">My latest projects 👨‍💻</h1>
-<div align="center">
-  <table>
-        <tr>
-            <td width="50%">
-                <h3 align="center">
-                    <a href="https://tabinav.com/" target="_blank" rel="noreferrer"> Tabinav ✈️</a>
-                </h3>
-                <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
-                    <p align="center">
-                        AI-powered trip planner
-                    </p>
-                </p>
-            </td>
-            <td width="50%">
-                <h3 align="center">
-                    <a href="/" target="_blank" rel="noreferrer">Coming soon 📹</a>
-                </h3>
-                <p align="center">
-                    <a href="https://cacabox-tv.com/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
-                    <p align="center">
-                        A netflix like for the Youtube Channel Cacabox TV
-                    </p>
-                </p>
-            </td>
-        </tr>
-  </table>
-</div>  
+![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D) 
 
 <!-- Contact -->
 <h1 align="center">How to get in touch?</h1>
