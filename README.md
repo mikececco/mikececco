@@ -9,7 +9,7 @@
   </div>
 </div>
 
-### :woman_technologist: About Me :
+<h1 align="center">About me 👨‍💻</h1>
 <div align="center">
 
 - :telescope: Software developer with experience and interest in AI.
@@ -20,7 +20,7 @@
 </div>
 
 <!-- Projects -->
-<h1 align="center">My latest projects 👨‍💻</h1>
+<h1 align="center">My latest projects 📖</h1>
 <div align="center">
   <table>
         <tr>
@@ -50,7 +50,7 @@
   </table>
 </div> 
 
-### :hammer_and_wrench: Languages and Tools :
+<h1 align="center">Language and tools ⚒️</h1>
 
 <div align="center">
   <p align="center"> 
@@ -80,7 +80,7 @@
 </div>
 
 
-### :fire: My Stats :
+<h1 align="center">Stats 🔥</h1>
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco&theme=dark)
 
