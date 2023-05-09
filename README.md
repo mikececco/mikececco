@@ -26,7 +26,7 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://tabinav.com/" target="_blank" rel="noreferrer"> Tabinav ✈️</a>
+                    <a href="http://www.tabinav.com/" target="_blank" rel="noreferrer"> Tabinav ✈️</a>
                 </h3>
                 <p align="center">
                     <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
