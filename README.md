@@ -18,7 +18,7 @@
 </div>
 
 <!-- Projects -->
-<h1 align="center">My latest projects 📖</h1>
+<h1 align="center">Some of my projects 📖</h1>
 <div align="center">
   <table>
         <tr>
