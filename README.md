@@ -58,11 +58,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&theme=monokai&hide_progress=true)
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
 
 <!-- Intro -->
 
