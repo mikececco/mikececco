@@ -9,8 +9,8 @@
   </div>
 </div>
 
-<div align="center">
 ### :woman_technologist: About Me :
+<div align="center">
 
 - :telescope: Software developer with experience and interest in AI.
 
