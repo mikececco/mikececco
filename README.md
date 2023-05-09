@@ -17,9 +17,6 @@
 - :seedling: I’m interested in simple but articulate problems.
 
 - :zap: I’m currently working on ...
-
-- :mailbox:How to reach me: <br>
-   [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikececconello/)
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
