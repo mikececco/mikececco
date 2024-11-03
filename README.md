@@ -83,9 +83,9 @@
 
 <h1 align="center">Stats 🔥</h1>
 <div align="center">
-
+<!--
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco&theme=dark)
-
+  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&theme=monokai&hide_progress=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D) 
@@ -97,7 +97,7 @@
     - <a href="https://twitter.com/messages/compose?recipient_id=3025808269" target="_blank" rel="noopener"> You can send me message on twitter</a>
 </p> 
 <p align="center">
-    - <a href="mailto:mikececco2000@gmail.com">Send email</a>
+    - <a href="mailto:mikececconello00@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
