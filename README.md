@@ -10,11 +10,12 @@
   </div>
 </div>
 
-- :telescope: Software developer with experience and interest in AI.
+<!--- :telescope: Helpin
 
 - :seedling: I’m interested in simple but articulate problems.
 
 - :zap: I’m currently working on ...
+-->
 </div>
 
 <!-- Projects -->
