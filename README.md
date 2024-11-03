@@ -83,9 +83,8 @@
 
 <h1 align="center">Stats 🔥</h1>
 <div align="center">
-<!--
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco&theme=dark)
-  -->
+<!-- ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikececco&theme=dark)   -->
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikececco&theme=monokai&hide_progress=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mikececco&theme=onedark&border_radius=10&date_format=j%20M%5B%20Y%5D) 
