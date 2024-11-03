@@ -19,6 +19,7 @@
 </div>
 
 <!-- Projects -->
+<!--
 <h1 align="center">Some of my projects 📖</h1>
 <div align="center">
   <table>
@@ -48,7 +49,8 @@
         </tr>
   </table>
 </div> 
-
+ -->
+ 
 <h1 align="center">Language and tools ⚒️</h1>
 
 <div align="center">
