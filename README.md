@@ -102,6 +102,8 @@
 </p>  
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+<p align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </p>
 
