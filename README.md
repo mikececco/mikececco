@@ -93,9 +93,6 @@
 <h1 align="center">How to get in touch?</h1>
 <h3 align="center">If you need my expertise for your project 👇</h3>
 <p align="center">
-    - <a href="https://twitter.com/messages/compose?recipient_id=3025808269" target="_blank" rel="noopener"> You can send me message on twitter</a>
-</p> 
-<p align="center">
     - <a href="mailto:mikececconello00@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
